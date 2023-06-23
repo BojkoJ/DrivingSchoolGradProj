@@ -1,4 +1,4 @@
-# Dlouhodobá maturitní práce - autoškola Poppková
+# Dlouhodobá maturitní práce 2021/2022 - autoškola Poppková
 ## První web-dev projekt
 ### Převážně statické stránky
 ### seznámení s technologiemi
