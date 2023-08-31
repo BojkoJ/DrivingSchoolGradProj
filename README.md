@@ -5,4 +5,4 @@
 ### první prozkoumávání responzivního UI designu
 ### implementace carouselů apod.
 
-# Projekt lze zobrazit na [Autoškola Poppková](autoskolapoppkova.cz)
+# Projekt lze zobrazit na [Autoškola Poppková](https://autoskolapoppkova.cz)
